@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Bloc de Notas",
+        "ruta": "C:\\Windows\\System32\\notepad.exe"
+    },
+    {
+        "nombre": "Calculador",
+        "ruta": "calc.exe"
+    },
+    {
+        "nombre": "Edge",
+        "ruta": "msedge.exe"
+    }
+]
